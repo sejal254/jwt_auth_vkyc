@@ -45,7 +45,7 @@ Authorization: Bearer <eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDc4MDIw
 
 ### 1. Clone and Setup
 ```
-git clone <repo_url>
+git clone https://github.com/sejal254/jwt_auth_vkyc.git
 cd jwt_auth_vkyc
 go mod tidy
 ```
